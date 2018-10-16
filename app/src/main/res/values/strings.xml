@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Notification Sample</string>
+
+    <string name="notification_channel_name_default">Default</string>
+    <string name="notification_channel_name_min">Min</string>
+    <string name="notification_channel_name_low">Low</string>
+    <string name="notification_channel_name_high">High</string>
+    <string name="notification_channel_name_max">Max</string>
+
+    <string name="notification_channel_description_default">This is the description of Default channel.</string>
+    <string name="notification_channel_description_min">This is the description of Min channel.</string>
+    <string name="notification_channel_description_low">This is the description of Low channel.</string>
+    <string name="notification_channel_description_high">This is the description of High channel.</string>
+    <string name="notification_channel_description_max">This is the description of Max channel.</string>
+
+    // Notification: Default
+    <string name="notification_title_default">Default</string>
+    <string name="notification_text_default">Default text.</string>
+
+    // Notification: Min
+    <string name="notification_title_min">Min</string>
+    <string name="notification_text_min">Min text.</string>
+
+    // Notification: Low
+    <string name="notification_title_low">Low</string>
+    <string name="notification_text_low">Low text.</string>
+
+    // Notification: High
+    <string name="notification_title_high">High</string>
+    <string name="notification_text_high">High text.</string>
+
+    // Notification: Max
+    <string name="notification_title_max">Max</string>
+    <string name="notification_text_max">Max text.</string>
+
+    <string name="message_fragment_main">Notification Sample</string>
+
+    // Button
+    <string name="button_notification_default">default</string>
+    <string name="button_notification_min">min</string>
+    <string name="button_notification_low">low</string>
+    <string name="button_notification_high">high</string>
+    <string name="button_notification_max">max</string>
+
+</resources>
